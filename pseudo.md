@@ -5,7 +5,7 @@ Have string just be text
 
 This is the hard part
 
-Has image change depending
+Have image change depending on user input
 I guess have CSS pull a base image from first choice (triangle, circle, or square)
 Then have the CSS change the color of said image depending on choice
 Then insert the string in there and have it spaced well
